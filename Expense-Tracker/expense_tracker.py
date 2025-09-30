@@ -1,10 +1,8 @@
 import pandas as pd
 import os
 
-# File to store expenses
 file_name = "expenses.csv"
 
-# Load existing expenses if file exists
 if os.path.exists(file_name):
     expenses = pd.read_csv(file_name)
 else:
@@ -68,3 +66,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
