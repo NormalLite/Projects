@@ -1,0 +1,1 @@
+This project is a Sales Dashboard built in Python that helps analyze and visualize sales data. It reads a CSV file of sales transactions and provides key insights into business performance, including total sales, sales by region, sales by product, and trends over time.
