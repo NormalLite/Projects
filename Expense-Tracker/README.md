@@ -1,6 +1,7 @@
 This project is an Interactive Expense Tracker built in Python. It allows users to input their personal or business expenses, set budgets for different categories, and automatically calculates totals, variances, and highlights overspending.
-<img width="574" height="286" alt="Screenshot 2025-09-30 205838" src="https://github.com/user-attachments/assets/e2d2372a-feeb-457d-baca-d2f337091379" />
-<img width="284" height="156" alt="Screenshot 2025-09-30 205330" src="https://github.com/user-attachments/assets/32417b58-d26d-4201-8542-7961499e12a6" />
-<img width="267" height="202" alt="Screenshot 2025-09-30 205901" src="https://github.com/user-attachments/assets/846b5293-9d26-44f0-84eb-7d1a77ee6194" />
+The menu: <img width="284" height="156" alt="Screenshot 2025-09-30 205330" src="https://github.com/user-attachments/assets/7dbd3959-0071-45c6-b86a-b0bf7af331b3" />
 
+all expenses: <img width="574" height="286" alt="Screenshot 2025-09-30 205838" src="https://github.com/user-attachments/assets/589cc964-cadc-4416-9c86-73477aaeac97" />
+
+Summary by category: <img width="267" height="202" alt="Screenshot 2025-09-30 205901" src="https://github.com/user-attachments/assets/691ad339-583c-4ee4-81d9-7366026de607" />
 
